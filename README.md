@@ -1,10 +1,10 @@
-### Hi there 👋
+### 'ello! 👋
+---
 
-#### I'm a Back-end Developer working from Tennessee, U.S.A.
+I am a Backend Engineer from Tennessee who is interested in automation, IPC, and privacy. 
 
-- 🏢 I'm currently working at **Syft** and **FaZe**
-- ⚙️ I use daily: `.js`, `.cpp`, `.class`
-- 🌍 I'm mostly active within the **Discord Community**
-- 💬 Ping me about **Discord**, **service architecture**, **development**, **NodeJS**
-- 📫 Reach me: [twitter.com/thy_packer](https://twitter.com/thy_packer) or Packer#9020 (Discord)
-- ⚡️ Fun fact: 日本語が勉強しています
+* 🏢 I'm currently working at **[@syftchurro](https://github.com/syftchurro)** and FaZe Clan.
+* 💼 I'm a software developer, systems administrator, and [community manager](https://discord.gg/jpclass).
+* 🌱 I'm learning more about K8s and i18n.
+* 📫 I can be reached via Twitter at **[@thy_packer](https://twitter.com/thy_packer)** or Discord at **Packer#9020**.
+* ⚡ I'm regularly working in: `.js`, `.py`, `.cc`, and `.go`
